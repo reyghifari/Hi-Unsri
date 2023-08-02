@@ -26,7 +26,7 @@ Aplikasi Hi Unsri menyediakan berbagai fitur yang membantu pengguna untuk mendap
 
 ## Tampilan Aplikasi
 Berikut adalah beberapa tangkapan layar aplikasi yang menunjukkan berbagai fitur yang tersedia dalam Hi Unsri.
-
+![architecture](hiunsri.png)
 
 ## Download Aplikasi
 
