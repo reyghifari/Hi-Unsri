@@ -7,31 +7,29 @@ Hi, Unsri is an innovative and new information channel specifically designed to 
 
 ## Fitur
 
-Aplikasi Hi Unsri menyediakan berbagai fitur yang membantu pengguna untuk mendapatkan informasi terkini mengenai universitas sriwijaya. Berikut adalah beberapa fitur yang tersedia:
+The Hi Unsri application provides various features that help users get the latest information about Sriwijaya University. Here are some of the features available:
 
-1. **Unsri Today**: Menampilkan daftar informasi berita yang terjadi di Universitas Sriwijaya baru-baru ini.
+1. **Unsri Today**: Displays a list of news information that happened at Sriwijaya University recently.
 
-2. **Unsri Lomba**: Menampilkan daftar informasi lomba Universitas Sriwijaya.
+2. **Unsri Competition**: Displays a list of information on Sriwijaya University competitions.
 
-3. **Unsri Beasiswa**: Menampilkan daftar informasi beasiswa Universitas Sriwijaya.
+3. **Unsri Scholarship**: Displays a list of Sriwijaya University scholarship information.
 
-4. **Unsri UKM**: Menampilkan daftar informasi UKM Universitas Sriwijaya.
+4. **Unsri UKM**: Displays a list of information on UKM Universitas Sriwijaya.
 
-5. **Unsri Event**: Menampilkan daftar informasi event Universitas Sriwijaya.
+5. **Unsri Event**: Displays a list of Sriwijaya University event information.
 
-6. **Unsri Aduan**: Aplikasi mendukung mahasiswa/khalayak umum untuk melakukan aduan pada Universitas Sriwijaya.
+6. **Unsri Complaints**: The application supports students/the general public to make complaints at Sriwijaya University.
 
-7. ***Tentang Unsri**: Menampilkan informasi tentang Unsri berupa visi misi, peta unsri dan sasaran unsri.
+7. ***About Unsri**: Displays information about Unsri in the form of vision and mission, Unsri maps and Unsri goals.
 
 
-## Tampilan Aplikasi
-Berikut adalah beberapa tangkapan layar aplikasi yang menunjukkan berbagai fitur yang tersedia dalam Hi Unsri.
+## Application Display
+Below are some screenshots of the app showing the various features available in Hi Unsri.
 ![architecture](hiunsri.png)
 
-## Download Aplikasi
-
-Aplikasi bisa di download di link berikut ini:
+## Download Application
 [https://drive.google.com/file/d/1WwJognsJKK92IZxyC1qlHE3oQT-Z9ndS/view?usp=sharing](https://play.google.com/store/apps/details?id=com.unsriinfo.app&hl=en-ID)
 
 ## Kontak
-Jika Anda memiliki pertanyaan atau saran terkait aplikasi ini, Anda dapat menghubungi tim Hi Unsri melalui email raihan.ghifari1603@gmail.com.
+If you have questions or suggestions regarding this application, you can contact the Hi Unsri team via email raihan.ghifari1603@gmail.com.
