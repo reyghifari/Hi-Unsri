@@ -29,7 +29,7 @@ Below are some screenshots of the app showing the various features available in 
 ![architecture](hiunsri.png)
 
 ## Download Application
-[https://drive.google.com/file/d/1WwJognsJKK92IZxyC1qlHE3oQT-Z9ndS/view?usp=sharing](https://play.google.com/store/apps/details?id=com.unsriinfo.app&hl=en-ID)
+[Playstore](https://play.google.com/store/apps/details?id=com.unsriinfo.app&hl=en-ID)
 
 ## Kontak
 If you have questions or suggestions regarding this application, you can contact the Hi Unsri team via email raihan.ghifari1603@gmail.com.
